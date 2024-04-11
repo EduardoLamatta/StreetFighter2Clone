@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MensajeInicial.unity
+    guid: 88d5a13a5a75b1141b493225e2b8363a
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 9b960d0c645d45146a42e48a7e148752
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ab6f12e807e6cee40b418bbd6b8fefb5
+  - enabled: 1
+    path: Assets/Scenes/TransicionInicio.unity
+    guid: 4683442f8f5f7a1469884afeb28254b6
+  - enabled: 1
+    path: Assets/Scenes/Tran_Perdiste.unity
+    guid: c4f174e1f699bfb46878b6c637f85c2c
+  - enabled: 1
+    path: Assets/Scenes/Tran_Ganaste.unity
+    guid: e4e7059ac7841214493af2acd0e64f6e
+  - enabled: 1
+    path: Assets/Scenes/Combates.unity
+    guid: 609c8eb0c646bac47b7a7a220baca3b8
+  - enabled: 1
+    path: Assets/Scenes/Bonus_1.unity
+    guid: bd9616b5e11eca34ebf30251ac9fb544
+  - enabled: 1
+    path: Assets/Scenes/Bonus_2.unity
+    guid: 56ad5b6107ba48d4ca1cd70c792b6372
+  - enabled: 1
+    path: Assets/Scenes/Bonus_3.unity
+    guid: 5870cefe0438c414198052eceae1bd74
+  - enabled: 1
+    path: Assets/Scenes/Continuar.unity
+    guid: b13d1f51192fc1d419c168995acc9c8d
+  - enabled: 1
+    path: Assets/Scenes/Finales.unity
+    guid: c1f249d600e4e864ebd89beacd0cc67f
+  m_configObjects: {}
